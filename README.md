@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulkarunakaran27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e8AdJJVefLTdbAV3QeRP4QVcPMNSo-nF/view?usp=sharing](https://drive.google.com/file/d/1e8AdJJVefLTdbAV3QeRP4QVcPMNSo-nF/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1e8AdJJVefLTdbAV3QeRP4QVcPMNSo-nF/view?usp=sharing)
 
 - ⚡ Fun fact **Once out of the comfort zone, there is a new you!**
 
