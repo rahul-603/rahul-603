@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Karunakaran</h1>
 <h3 align="center">A passionate computer programming buff.</h3>
 
-- 🔭 I’m currently working on **Leave Management System (MEAN Stack)**
-
 - 🌱 I’m currently learning **Database, Video and Photo Editing Skills and Full-Stack Development**
 
 - 💬 Ask me about **Programming Languages (C, C++, Python & Java), DBMS (MySQL)**
